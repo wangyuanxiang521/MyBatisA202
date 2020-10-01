@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0db32b0c-b31d-4153-a03e-9312e83386b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBatisA202.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wyx/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wyx/op/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/DeptDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wyx/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wyx/op/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -134,6 +116,13 @@
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -338,8 +327,16 @@
       <updated>1601513057776</updated>
       <workItem from="1601513060665" duration="7023000" />
       <workItem from="1601520196603" duration="1517000" />
-      <workItem from="1601521738894" duration="3310000" />
+      <workItem from="1601521738894" duration="4334000" />
     </task>
+    <task id="LOCAL-00001" summary="IDEA整合GITHUB测试">
+      <created>1601525139798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601525139799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -375,7 +372,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11850000" />
+    <option name="totallyTimeSpent" value="12874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -417,6 +414,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IDEA整合GITHUB测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA整合GITHUB测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
